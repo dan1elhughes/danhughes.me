@@ -1,0 +1,43 @@
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+	font-family: 'Lato', sans-serif;
+	font-size: 110%;
+}
+
+body {
+	background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/connect.png) repeat;
+	text-align: center;
+}
+
+div {
+	height: 22em;
+	position: relative;
+	top: 15%;
+	padding: 1em;
+}
+
+img {
+	//border-radius: 50%;
+	max-width: 300px;
+	width: 66%;
+}
+
+a {
+	text-decoration: none;
+	color: #41b7d8;
+	
+	-webkit-transition: border-bottom 0.25s;
+	-moz-transition: border-bottom 0.25s;
+	-o-transition: border-bottom 0.25s;
+	transition: border-bottom 0.25s;
+	
+	border-bottom: 1px solid transparent;
+}
+
+a:hover {
+	border-bottom: 1px solid #41b7d8;
+}
