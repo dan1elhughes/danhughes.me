@@ -1,5 +1,3 @@
-#Danhughes.me
-##Overview
-My personal website.
-##Demo
-https://danhughes.me
+This isn't an interesting repo. It redirects a URL to my GitHub profile.
+
+That's it. ✌️

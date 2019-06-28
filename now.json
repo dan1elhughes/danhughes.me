@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "name": "danhughes.me",
+  "alias": "danhughes.me",
+  "github": {
+    "silent": true
+  },
+  "routes": [
+    {
+      "src": "/",
+      "status": 302,
+      "headers": { "Location": "https://github.com/dan1elhughes" }
+    },
+    {
+      "src": "/healthz",
+      "status": 200
+    }
+  ]
+}
