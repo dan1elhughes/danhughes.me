@@ -3,7 +3,7 @@
   "name": "danhughes.me",
   "alias": "danhughes.me",
   "github": {
-    "silent": true
+    "silent": false
   },
   "routes": [
     {
