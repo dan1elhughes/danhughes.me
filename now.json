@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "danhughes.me",
-  "alias": "danhughes.me",
+  "alias": ["danhughes.me", "www.danhughes.me"],
   "github": {
     "silent": true
   },
